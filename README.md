@@ -30,5 +30,5 @@
    - Удаленная запись должна быть удалена из базы данных.
 
 
-![Image](https://github.com/nuoxi3007/Medication_plan/assets/128590563/d6fc8a55-0d9f-4f57-a5b9-2935198b0004)
+![Image](https://github.com/nuoxi3007/Medication_plan/assets/128590563/2bb4cf19-76d1-454f-bf68-87f36f6b425b)
 
